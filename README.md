@@ -13,7 +13,7 @@ Project Name: User Management
 - Includes simple JUnit tests.
 - Happy testing!
 
-- backend and more following in https://github.com/muhammadsafar/fullstack-springboot-react-fe
+- backend and more following in https://github.com/muhammadsafar/fullstack-springboot-react
 
 coder : muhammad safar baharuddin
 
