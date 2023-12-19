@@ -15,7 +15,9 @@ Project Name: User Management
 
 - backend and more following in https://github.com/muhammadsafar/fullstack-springboot-react
 
-coder : muhammad safar baharuddin
+- axios, modal error, react hooks, validate
+
+coder : Safar Baharuddin
 
 
 # Getting Started with Create React App
